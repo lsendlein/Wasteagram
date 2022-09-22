@@ -17,9 +17,3 @@ Mr. Peter wants his employees to run an application that, "is like Instagram, bu
 "If only I could see a list of these posts over time, then at least I'd know how much money I'm losing, and I could make adjustments to my pastry orders," he says, dreamily. "No more forsaken donuts!"
 
 You have engaged Matthew Peter in a paid contract to develop a functioning version of the application that he and his employees can try out at the coffee shop. "Hey, I know," he says, "Let's call it Wasteagram."
-
-
-![waseagram-1](https://user-images.githubusercontent.com/71516446/191829325-9f29f84e-6d81-4806-8cf9-833b6c685fba.png)
-![wasteagram-2](https://user-images.githubusercontent.com/71516446/191829347-79a60be4-2ec4-48bc-b3d6-e25884a82d98.png)
-![wasteagram-3](https://user-images.githubusercontent.com/71516446/191829370-5df278b4-d126-46fc-b482-941e13c05064.png)
-![wasteagram-4](https://user-images.githubusercontent.com/71516446/191829385-108a47cd-38ab-4975-80b5-c32dcba76fae.png)
