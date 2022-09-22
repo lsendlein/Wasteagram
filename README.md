@@ -1,13 +1,16 @@
 Mobile Development Portfolio Project: Wasteagram
 
-Learning Outcomes
-Obtain device location information and integrate the use of the camera or photo gallery
-Demonstrate persistence with remote storage services, such as Firebase Cloud Storage and a Firestore database.
-Invoke asynchronous methods, employ navigation, capture form data, and display data in ListView components and detail screens.
-Implement unit tests to validate application behavior.
-Incorporate the Semantics widget to facilitate accessibility features of native platforms.
-Demonstrate the use of analytics, crash reporting, and debugging tools
-Scenario
+Learning Outcomes:
+
+  - Obtain device location information and integrate the use of the camera or photo gallery
+  - Demonstrate persistence with remote storage services, such as Firebase Cloud Storage and a Firestore database.
+  - Invoke asynchronous methods, employ navigation, capture form data, and display data in ListView components and detail screens.
+  - Implement unit tests to validate application behavior.
+  - Incorporate the Semantics widget to facilitate accessibility features of native platforms.
+  - Demonstrate the use of analytics, crash reporting, and debugging tools
+
+Scenario:
+
 Your client, Matthew Peter, is the owner of TwentySix Cafe, a Portland coffee shop.
 
 "Man, I am so tired of these wasted bagels and pastries we have at the end of every day!" he says. "I'm losing money, and it's so wasteful... I feel like there's an episode of Portlandia about this. I mean, why waste a donut? A donut!"
